@@ -1,0 +1,9 @@
+.modal-footer a {
+	text-decoration: none;
+	color: black;
+}
+
+.modal-footer a:hover {
+	text-decoration: none;
+	color: white;
+}
